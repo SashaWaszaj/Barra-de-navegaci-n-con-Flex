@@ -1,0 +1,40 @@
+.nav {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-title  {
+    color: aliceblue;
+    padding: 5px 20px;
+    margin: 5px;
+}
+a {
+    color: aliceblue;
+    text-decoration-line: none;
+}
+li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+}
+.nav-links {
+    display: flex;
+}
+ul {
+    margin: 0;
+}
+.btn {
+    color: aliceblue;
+    background-color: royalblue;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 3px 3px black;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
